@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\Line-Comparision\Line-Comparision\Line-Comparision\bin\Debug\netcoreapp3.1\Line-Comparision.exe
+C:\Users\HP\source\repos\Line-Comparision\Line-Comparision\Line-Comparision\bin\Debug\netcoreapp3.1\Line-Comparision.deps.json
+C:\Users\HP\source\repos\Line-Comparision\Line-Comparision\Line-Comparision\bin\Debug\netcoreapp3.1\Line-Comparision.runtimeconfig.json
+C:\Users\HP\source\repos\Line-Comparision\Line-Comparision\Line-Comparision\bin\Debug\netcoreapp3.1\Line-Comparision.runtimeconfig.dev.json
+C:\Users\HP\source\repos\Line-Comparision\Line-Comparision\Line-Comparision\bin\Debug\netcoreapp3.1\Line-Comparision.dll
+C:\Users\HP\source\repos\Line-Comparision\Line-Comparision\Line-Comparision\bin\Debug\netcoreapp3.1\Line-Comparision.pdb
+C:\Users\HP\source\repos\Line-Comparision\Line-Comparision\Line-Comparision\obj\Debug\netcoreapp3.1\Line-Comparision.csprojAssemblyReference.cache
+C:\Users\HP\source\repos\Line-Comparision\Line-Comparision\Line-Comparision\obj\Debug\netcoreapp3.1\Line-Comparision.AssemblyInfoInputs.cache
+C:\Users\HP\source\repos\Line-Comparision\Line-Comparision\Line-Comparision\obj\Debug\netcoreapp3.1\Line-Comparision.AssemblyInfo.cs
+C:\Users\HP\source\repos\Line-Comparision\Line-Comparision\Line-Comparision\obj\Debug\netcoreapp3.1\Line-Comparision.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\Line-Comparision\Line-Comparision\Line-Comparision\obj\Debug\netcoreapp3.1\Line-Comparision.dll
+C:\Users\HP\source\repos\Line-Comparision\Line-Comparision\Line-Comparision\obj\Debug\netcoreapp3.1\Line-Comparision.pdb
+C:\Users\HP\source\repos\Line-Comparision\Line-Comparision\Line-Comparision\obj\Debug\netcoreapp3.1\Line-Comparision.genruntimeconfig.cache
