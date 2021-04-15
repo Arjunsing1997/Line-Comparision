@@ -41,15 +41,19 @@ namespace Line_Comparision
             Console.WriteLine("Lenth of the Line2: " + lengthLine2);
 
             double result = lengthLine1.CompareTo(lengthLine2);//comparing two lines using Compareto Method
-
-            if (result == 0)  //checking wheteher both lines are equal or not
-            {
-                Console.WriteLine("Lines are EQUALS");
-            }
-            else
-            {
-                Console.WriteLine("Line are NOT EQUALS");
-            }
+ 
+                if (result == 0) //checking wheteher both lines are equal or not
+                {
+                    Console.WriteLine("Both Line are EQUALS");
+                }
+                else if (result < 0)
+                {
+                    Console.WriteLine("Line ONE is Smaller than Line TWO");
+                }
+                else
+                {
+                    Console.WriteLine("Line ONE is Larger than Line TWO");
+                }
 
 
         }
